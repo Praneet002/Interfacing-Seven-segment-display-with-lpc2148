@@ -1,12 +1,12 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name: RAGUL VK
+Name: PRANEET S
 
 
-Roll no: 212221240043
+Roll no: 212221230078
 
 
-Date of experiment: 10-11-2022
+
 
 
 Ex. No: 08
